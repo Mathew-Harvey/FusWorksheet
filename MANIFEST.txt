@@ -1,0 +1,10 @@
+Source: C:\Users\MattHarvey\OneDrive - Franmarine\Documents\dev\FusWorksheet\index.html
+Source size: 2,242,742 chars, 791 lines
+Styles extracted: 1
+Scripts extracted: 3
+
+Files:
+  styles/01.css  (230 lines)
+  scripts/01.js (1 lines)
+  scripts/02.js (30 lines) [module]
+  scripts/03.js (428 lines)
